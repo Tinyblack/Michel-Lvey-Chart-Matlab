@@ -4,7 +4,7 @@ This Matlab script generates the Michel-Levy Birefringence Chart of Nematic liqu
 
 ![equation](http://www.sciweavers.org/tex2img.php?eq=T%3D%5Csin%5E%7B2%7D%7B%20%5Cleft%28%202%5Cchi%20%5Cright%29%7D%5Csin%5E%7B2%7D%7B%5Cleft%28%5Cfrac%7B%5Cpi%20%5CDelta%20n%20d%7D%7B%5Clambda_%7B0%7D%7D%5Cright%29%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
-where
+where:
 
 ![test](http://www.sciweavers.org/tex2img.php?eq=%20%5Cchi%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) is the angle between the director of the liquid crystal molecule and the polarization of the light.
 
@@ -12,7 +12,7 @@ where
 
 ![](http://www.sciweavers.org/tex2img.php?eq=%5Clambda_%7B0%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)is the wavelength of the input light.
 
-![](http://www.sciweavers.org/tex2img.php?eq=%5CDelta%20n%20%3D%20n_%7Be%7D-n_%7Bo%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0), where ![](http://www.sciweavers.org/tex2img.php?eq=n_%7Be%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) is the refractive index parallel to the director of the liquid crystal and ![](http://www.sciweavers.org/tex2img.php?eq=n_%7Bo%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) is the refractive index perpendicular to the director of the liquid crystal.
+![test](http://www.sciweavers.org/tex2img.php?eq=%5CDelta%20n%20%3D%20n_%7Be%7D-n_%7Bo%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0), where ![](http://www.sciweavers.org/tex2img.php?eq=n_%7Be%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) is the refractive index parallel to the director of the liquid crystal and ![](http://www.sciweavers.org/tex2img.php?eq=n_%7Bo%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0) is the refractive index perpendicular to the director of the liquid crystal.
 
 # The following MATLAB tool box is required to run the script.
 
