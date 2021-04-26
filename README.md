@@ -2,7 +2,10 @@
 
 This Matlab script generates the Michel-Levy Birefringence Chart of Nematic liquid crystal. The liquid crystal is analysed using crossed polarizer and analyser. The transmission intensity of the light under different wavelength is expressed as below:
 
-$T=\sin^{2}{\left(2\chi\right)}\sin^{2}{\left(\frac{\pi\Delta n d}{\lambda_{0}}\right)}$![equation](http://www.sciweavers.org/tex2img.php?eq=T%3D%5Csin%5E%7B2%7D%7B%20%5Cleft%28%202%5Cchi%20%5Cright%29%7D%5Csin%5E%7B2%7D%7B%5Cleft%28%5Cfrac%7B%5Cpi%20%5CDelta%20n%20d%7D%7B%5Clambda_%7B0%7D%7D%5Cright%29%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+$$
+T=\sin^{2}{\left(2\chi\right)}\sin^{2}{\left(\frac{\pi\Delta n d}{\lambda_{0}}\right)}$
+
+$$
 
 where:
 
